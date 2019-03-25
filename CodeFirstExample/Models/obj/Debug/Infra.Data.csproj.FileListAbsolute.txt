@@ -1,0 +1,15 @@
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\bin\Debug\Infra.Data.pdb
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\obj\Debug\Infra.Data.pdb
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\bin\Debug\EntityFramework.dll
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\bin\Debug\EntityFramework.xml
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\obj\Debug\Infra.Data.csprojAssemblyReference.cache
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\obj\Debug\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\obj\Debug\Infra.Data.csproj.CopyComplete
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\bin\Debug\Infra.Data.exe.config
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\bin\Debug\Infra.Data.exe
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\obj\Debug\Infra.Data.exe
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\obj\Debug\Infra.Data.Migrations.Inicial.resources
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\obj\Debug\Infra.Data.csproj.GenerateResource.cache
+C:\Users\emauricio\Documents\Arquivos Eliaquim\Estudos\codefirst-entity-framework\CodeFirstExample\Models\obj\Debug\Infra.Data.Migrations.Unidade.resources
